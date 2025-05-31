@@ -158,26 +158,4 @@ Este é um fluxo de trabalho genérico que demonstra as etapas do projeto:
             * **Netlify, Vercel:** Plataformas de hospedagem para sites estáticos com planos gratuitos generosos.
             * **Servidor Web Próprio:** Se você tiver acesso a um.
 
----
-## 🚀 Como Utilizar o Notebook de Fundamentos (`projeto_03.ipynb`) (Base para o Projeto)
-
-O notebook `projeto_03.ipynb` fornecido anteriormente contém os exercícios básicos de Python que constroem a fundação necessária para as etapas de manipulação de dados e lógica de programação descritas neste README.
-
-1.  **Clone o repositório (se aplicável):**
-    ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
-    cd [NOME_DA_PASTA_DO_PROJETO]
-    ```
-2.  **Ambiente:** Certifique-se de ter Python e Jupyter Notebook instalados. Para o projeto de análise completo, você também precisará instalar bibliotecas como Pandas e Plotly:
-    ```bash
-    pip install pandas plotly notebook
-    ```
-3.  **Inicie o Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-4.  Abra o `projeto_03.ipynb` para revisar os fundamentos, ou crie um novo notebook para desenvolver o projeto de análise de dados e geração de HTML descrito.
-
----
-
 Este README oferece um roteiro detalhado para criar um projeto de análise de dados com Python, desde a manipulação inicial até a geração de um relatório HTML interativo. Ao dominar os fundamentos do Python e combiná-los com bibliotecas especializadas, você pode criar visualizações de dados poderosas e acessíveis.
